@@ -1,0 +1,9 @@
+activate_hot_water_boost:
+  description: "Activate the hot water boost function"
+  fields:
+    entry_id:
+      description: "The config entry ID"
+      example: "abcdef123456"
+    duration:
+      description: "Duration for the boost in seconds"
+      example: 300
