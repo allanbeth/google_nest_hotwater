@@ -1,0 +1,11 @@
+{
+    "domain": "google_nest_hotwater",
+    "name": "Google Nest Hot Water",
+    "documentation": "https://github.com/your-github-repo/google_nest_hotwater",
+    "requirements": ["google-auth", "requests"],
+    "dependencies": [],
+    "codeowners": ["@your-username"],
+    "version": "1.0.0",
+    "iot_class": "cloud_push"
+  }
+  
